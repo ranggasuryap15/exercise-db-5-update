@@ -1,0 +1,1 @@
+UPDATE students SET address = 'Bandung' WHERE id = 8 OR id = 9 OR id = 10
